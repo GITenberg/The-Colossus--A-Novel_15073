@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8387
     wikipedia: http://en.wikipedia.org/wiki/Opie_Read
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15073#The-Colossus--A-Novel
 gutenberg_issued: '2005-02-15'
 gutenberg_type: Text
 identifiers:
