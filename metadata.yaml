@@ -1,0 +1,28 @@
+_repo: The-Colossus--A-Novel_15073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Read, Opie Percival
+    alias: Read, Opie P.
+    birthdate: 1852
+    deathdate: 1939
+    gutenberg_agent_id: '8387'
+    url: http://www.gutenberg.org/2009/agents/8387
+    wikipedia: http://en.wikipedia.org/wiki/Opie_Read
+description: ''
+gutenberg_issued: '2005-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcc 'PS'
+title: 'The Colossus: A Novel'
+url: http://www.gutenberg.org/ebooks/15073
